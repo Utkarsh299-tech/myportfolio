@@ -1,4 +1,7 @@
 # myportfolio
+<p align="center">
+ <img src="https://thumbs.gfycat.com/BriefRaggedBighornsheep.webp">
+</p>
 
 This is my portfolio built using HTML, CSS and JavaScript. This portfolio has been deployed with the help of GitHub pages.
 
