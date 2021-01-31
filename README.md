@@ -12,4 +12,4 @@ This portfolio is live due to the awesome [tutorial](https://www.youtube.com/wat
 ![myportfoliohomepage](https://github.com/Utkarsh299-tech/myportfolio/blob/master/myportfolio.png)
 
 ## NOTE:
-This portfolio is under progress. The `My Work` section is still incomplete.
+This portfolio is under progress. The [`My Work`](https://utkarsh299-tech.github.io/myportfolio/#work) section is still incomplete.
